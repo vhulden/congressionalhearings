@@ -1,0 +1,3 @@
+
+*Selecting the subset of hearings for this paper: The exact search was 
+'\Wlabor union|\Wlabor organization|\Worganized labor|\Wtrade union|industrial relation|labor relation|labor management|\Wworker\W|\Wworkers\W|\Wworking people\W|\Wworking women\W|\Wjobs\W|\Wjob\W|\Wwage\W|\Wwages\W|employment' over a string consisting of the title of the hearing, the title of the committee or subcommittee, and the list of subjects the metadata contained for that hearing. (Committee and subcommittee were included because sometimes the Congress creates special committees or commissions whose title is revealing. Note that the search does not capture merely "Labor" in the committee name, as in the House Committee on Labor or the Senate Education and Labor committee.)
